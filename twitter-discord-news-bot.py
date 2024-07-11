@@ -8,7 +8,7 @@ intents.messages = True  # Enable if your bot needs to read messages
 intents.guilds = True    # Enable if your bot needs to interact with guilds
 
 # Discord bot token - Replace 'your_actual_bot_token_here' with your bot's token
-BOT_TOKEN = 'MTIyMTU1Nzk5MzA5NTY5NjUxNQ.GF_Ujd.jVTZrXL9iR-u8cQ42sN5tC5svfsI58mHdJwg6I'
+BOT_TOKEN = 'key'
 
 # Discord channel ID where messages will be sent
 CHANNEL_ID = 1210330503098667109
